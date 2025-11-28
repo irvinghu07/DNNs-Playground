@@ -5,9 +5,14 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
+    "gymnasium>=1.2.2",
+    "imageio>=2.37.2",
     "ipykernel>=7.1.0",
+    "matplotlib>=3.10.7",
     "numpy>=2.3.4",
     "pandas>=2.3.3",
     "pip>=25.3",
+    "pygame>=2.6.1",
     "scikit-learn>=1.7.2",
+    "tqdm>=4.67.1",
 ]
